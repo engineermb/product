@@ -1,0 +1,5 @@
+#comments игнорируем папку logs
+logs/
+
+#игнорируем файлы txt в папке docs
+docs/*txt
