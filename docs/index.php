@@ -4,4 +4,5 @@ echo "456";
 
 echo "789";
 echo "Hello new branch";
+echo "branch master";
 ?>
